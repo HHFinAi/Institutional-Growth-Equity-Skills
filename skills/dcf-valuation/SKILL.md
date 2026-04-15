@@ -1,9 +1,13 @@
 ---
 name: dcf-valuation
 description: "Conduct DCF (Discounted Cash Flow) valuations for stocks with institutional-grade share dilution analysis. Use when the user asks to value a company, build a DCF model, or perform intrinsic valuation. Includes Treasury Stock Method (TSM) for options/warrants, If-Converted method for convertibles, RSU/PSU dilution, and SBC-adjusted FCF. Produces a multi-tab Excel workbook with historical financials, projections, sensitivity tables, diluted shares bridge, and scenario analysis. Tailored for Information Technology and Biotech sectors with appropriate model structures (two-stage, three-stage, or SOTP)."
+metadata:
+  author: HH
 ---
 
 # DCF Valuation Skill (with Share Dilution Analysis)
+
+> _This is an institutional-quality research and investment skill._
 
 Build professional DCF valuation models for publicly traded companies with institutional-grade share dilution analysis following Rosenbaum & Pearl's "Investment Banking: Valuation, LBOs, M&A, and IPOs" methodology.
 

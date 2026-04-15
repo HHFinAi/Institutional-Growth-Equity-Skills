@@ -1,9 +1,13 @@
 ---
 name: competitive-analysis
 description: Comprehensive framework for analyzing company competitiveness across 11 dimensions (market position, moat, Porter's Five Forces, value chain, strategy, innovation, operations, financials, vulnerabilities, forward indicators, geopolitical supply chain resilience). Use when asked to assess competitive positioning, evaluate competitive advantages, analyze industry dynamics, compare companies competitively, assess moat sustainability, build investment theses based on competitive strength, evaluate supply chain resilience, assess geopolitical risk exposure, analyze friend-shoring/nearshoring advantage, or evaluate domestic supply chain as competitive moat. Produces institutional-quality analysis with visual infographic summary and detailed section-by-section assessment.
+metadata:
+  author: HH
 ---
 
 # Competitive Analysis Framework
+
+> _This is an institutional-quality research and investment skill._
 
 ## Overview
 

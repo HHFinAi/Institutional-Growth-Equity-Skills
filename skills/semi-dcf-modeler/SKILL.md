@@ -1,9 +1,13 @@
 ---
 name: semi-dcf-modeler
 description: "Expert semiconductor industry equity research and DCF valuation. Use when the user asks to: (1) Value a semiconductor company (equipment, memory, foundry, or fabless), (2) Build a DCF, SOTP, P/BV, or residual income model for semi stocks, (3) Analyze semiconductor industry cycles or cycle positioning, (4) Assess competitive moats and chokepoints (EUV, foundry, HBM), (5) Model geopolitical scenarios (China export controls, Taiwan risk), (6) Analyze 10-K filings for semi companies with industry-specific red flags, (7) Track memory pricing cycles or equipment demand, (8) Compare semi valuations using trading comps or precedent transactions, (9) Calculate fully diluted shares using Treasury Stock Method (TSM) and If-Converted method, (10) Build share dilution bridges and SBC-adjusted FCF models. Covers equipment (ASML, LAM, AMAT), memory (Micron, SK Hynix), foundry (TSMC), and fabless (Nvidia, AMD) using cycle-peak P/E, SOTP, P/BV, residual income, and forward P/E methodologies."
+metadata:
+  author: HH
 ---
 
 # Semiconductor DCF Modeler
+
+> _This is an institutional-quality research and investment skill._
 
 Expert-level semiconductor industry valuation for institutional investment research.
 

@@ -1,9 +1,13 @@
 ---
 name: growth-stock-analysis
 description: Comprehensive framework for analyzing growth stocks using competitive moat theory, technology adoption dynamics, narrative economics, management quality assessment, and platform strategy. Use when asked to analyze growth companies, evaluate competitive positions, assess technology investments, or build investment theses for high-growth equities.
+metadata:
+  author: HH
 ---
 
 # Growth Stock Analysis Framework
+
+> _This is an institutional-quality research and investment skill._
 
 ## Overview
 

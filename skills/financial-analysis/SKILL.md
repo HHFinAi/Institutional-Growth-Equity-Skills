@@ -1,9 +1,13 @@
 ---
 name: financial-analysis
 description: Perform comprehensive financial analysis including DCF modeling, ratio analysis, and financial statement evaluation for companies and investment opportunities
+metadata:
+  author: HH
 ---
 
 # Financial Analysis Skill
+
+> _This is an institutional-quality research and investment skill._
 
 When performing financial analysis, follow these systematic steps to ensure thorough and accurate evaluation:
 

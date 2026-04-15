@@ -1,9 +1,13 @@
 ---
 name: corporate-network-analysis
 description: Systematic framework for analyzing corporate networks to generate investment alpha. Use when analyzing supplier-customer relationships, director interlocks, executive networks, insider holdings patterns, or identifying M&A signals through board connections. Triggers on supply chain analysis, customer momentum, board interlock, director network, connected party analysis, relationship mapping, or network-based investment research.
+metadata:
+  author: HH
 ---
 
 # Corporate Network Analysis
+
+> _This is an institutional-quality research and investment skill._
 
 Exploit slow information diffusion through supply chain relationships and director interlocks to identify predictable stock returns. Academic research shows customer momentum yields ~150bps monthly alpha; board centrality generates ~4.68% annual risk-adjusted returns.
 

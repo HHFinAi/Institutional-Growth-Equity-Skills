@@ -1,9 +1,13 @@
 ---
 name: analyzing-financial-statements
 description: This skill calculates key financial ratios and metrics from financial statement data for investment analysis
+metadata:
+  author: HH
 ---
 
 # Financial Ratio Calculator Skill
+
+> _This is an institutional-quality research and investment skill._
 
 This skill provides comprehensive financial ratio analysis for evaluating company performance, profitability, liquidity, and valuation.
 

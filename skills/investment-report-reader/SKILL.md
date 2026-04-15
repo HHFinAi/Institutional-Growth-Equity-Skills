@@ -1,9 +1,13 @@
 ---
 name: investment-report-reader
 description: Read and extract content from PDF investment reports — sell-side notes (GS/MS/JPM/UBS/Citi/BofA), 10-Ks, annual reports, fund factsheets, manager commentaries, and macro outlooks. Specialises in CHARTS, TABLES, and IMAGES that text-only extraction silently misses (most research charts are vector and invisible to pdfimages). Handles MULTI-REPORT TRIANGULATION when 2+ reports cover the same name, comparing forecasts, valuation methods, and surfacing coverage gaps. When the user has a company of interest and uploads sector or industry reports alongside company-specific notes, MINES the sector reports for company-specific tables and exhibits and treats them as direct evidence. Use whenever a PDF investment report is uploaded and the user wants to summarise, query, extract from, compare reports, or dig a company out of an industry note. Trigger phrases include "read this broker note", "summarise this 10-K", "what does this report say about X", "pull the price target", "compare these reports".
+metadata:
+  author: HH
 ---
 
 # Investment Report Reader
+
+> _This is an institutional-quality research and investment skill._
 
 **Version: 3.3** — adds missing-report detection, the EPS/PT/spot three-way race diagnostic (Rule 13), broadens Rule 12 from framework-switch to definition-switch, lowers the sector-mining threshold to single-paragraph mentions, requires bull-case sanity-checks against prior-cycle peaks, requires unit-consistency checks across estimate trajectories, and adds the unstated-falsifier prompt to every playbook. See changelog at the end of this file.
 

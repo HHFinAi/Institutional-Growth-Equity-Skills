@@ -1,9 +1,13 @@
 ---
-name: alphaear-logic-visualizer
+name: complex-logic-visualizer
 description: Create finance logic diagrams and charts to explain investment transmission chains, signal flows, and market logic. Use this skill whenever the user wants to visualize an investment thesis, map a macro signal chain, draw a logic flow, show cause-and-effect relationships between market variables, or chart sentiment/ISQ/stock data. Trigger phrases include "visualize this", "draw my thesis", "map this logic", "show the transmission chain", "diagram this signal", "chart this flow", "create a logic diagram", "visualize the causal chain", "render this as a diagram", "show the mechanism". Also triggers when building outputs from the alphaear-sentiment skill that require chart rendering.
+metadata:
+  author: HH
 ---
 
 # AlphaEar Logic Visualizer Skill
+
+> _This is an institutional-quality research and investment skill._
 
 ## Overview
 

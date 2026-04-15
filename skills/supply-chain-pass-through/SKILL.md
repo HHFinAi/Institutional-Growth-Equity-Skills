@@ -1,9 +1,13 @@
 ---
 name: supply-chain-pass-through
 description: Map listed-equity beneficiaries of a secular trend across the supply chain, then substantiate each with earnings call evidence (backlog, book-to-bill, guide raises, Q&A admissions, mix shifts). Decomposes multi-mechanism themes into sub-themes, flags cost-bearer nodes, subtracts captive capacity, and classifies each node as value captor, volume taker, optionality, or cost bearer. Use when asked "who benefits from X", "supply chain beneficiaries", "pass-through analysis", "thematic basket", "pick and shovel", "trace this trend", "map the value chain", "which companies are exposed to", or any request starting from a macro driver and asking for downstream equity beneficiaries. Also triggers on "substantiate with earnings calls" or checking whether a company actually captures benefit vs merely transits volume. Pairs with bg-lens for single-name deep dives and earnings-analysis for individual prints.
+metadata:
+  author: HH
 ---
 
 # Supply Chain Pass-Through (v2)
+
+> _This is an institutional-quality research and investment skill._
 
 ## Purpose
 

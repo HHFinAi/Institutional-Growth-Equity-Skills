@@ -1,9 +1,13 @@
 ---
 name: ib-report-formatting
 description: "Comprehensive professional formatting for investment banking documents. Use when creating pitch books, CIMs, fairness opinions, valuation reports, offering memoranda, or any financial document requiring institutional-quality formatting. Covers 200+ Word formatting capabilities including text/paragraph formatting, advanced table features, styles/themes, track changes, TOC/references, fields/automation, watermarks, and SEC compliance. Follows Goldman/Morgan Stanley/JP Morgan conventions. Produces polished Word documents via docx-js."
+metadata:
+  author: HH
 ---
 
 # Investment Banking Report Formatting Skill
+
+> _This is an institutional-quality research and investment skill._
 
 Comprehensive formatting for institutional-quality financial documents covering all 200+ Word formatting capabilities across 11 categories.
 
