@@ -1,9 +1,13 @@
 ---
 name: creating-financial-models
 description: This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions
+metadata:
+  author: HH
 ---
 
 # Financial Modeling Suite
+
+> _This is an institutional-quality research and investment skill._
 
 A comprehensive financial modeling toolkit for investment analysis, valuation, and risk assessment using industry-standard methodologies.
 

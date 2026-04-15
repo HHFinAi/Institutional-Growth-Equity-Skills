@@ -1,9 +1,13 @@
 ---
 name: ib-infographic
 description: "Create institutional-quality one-page infographics for presenting complex data and insights. Use when the user asks to create an infographic, one-pager, visual summary, data visualization summary, or executive dashboard from financial data, research, or analysis. Supports investment banking professional formatting with detailed charts, metrics, callouts, and key summary insights. Produces polished PNG outputs (with transparency support) or PDF following Goldman/Morgan Stanley/JP Morgan visual standards."
+metadata:
+  author: HH
 ---
 
 # Investment Banking Infographic Skill
+
+> _This is an institutional-quality research and investment skill._
 
 Create museum-quality, one-page infographics that distill complex data and analysis into visually compelling summaries following institutional standards.
 

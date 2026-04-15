@@ -14,7 +14,7 @@ description: >-
   "post-print analysis". Do NOT use for DCF models, long-term thesis work,
   technical analysis, or metals analysis — use the dedicated skills for those.
 metadata:
-  author: Ed
+  author: HH
   version: 1.4.1
   tags:
     - earnings-analysis
@@ -27,6 +27,8 @@ metadata:
 ---
 
 # Earnings Analysis: Institutional-Quality Quarterly Review Framework
+
+> _This is an institutional-quality research and investment skill._
 
 ## Overview
 

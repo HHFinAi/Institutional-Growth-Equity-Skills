@@ -1,9 +1,13 @@
 ---
 name: thematic-investment-research
 description: "Comprehensive framework for conducting institutional-quality thematic investment research. Use when the user asks to: (1) Identify and validate investment themes, (2) Analyze thematic market opportunities and value chains, (3) Build a thematic stock universe and screen candidates, (4) Conduct company deep dives with thematic focus, (5) Value companies using theme-appropriate methodologies, (6) Assess theme-level and company-level risks, (7) Write thematic research reports, (8) Design portfolio implementation and monitoring frameworks. Triggers on phrases like thematic research, investment theme, secular trend analysis, theme validation, thematic universe, value chain mapping, or requests for structured investment research methodology."
+metadata:
+  author: HH
 ---
 
 # Thematic Investment Research Framework
+
+> _This is an institutional-quality research and investment skill._
 
 ## Overview
 

@@ -2,9 +2,13 @@
 name: ib-excel-professional
 description: "Professional investment banking Excel modeling for complex financial analysis. Use when creating: DCF models, LBO models, M&A analysis (accretion/dilution), sensitivity analysis (data tables), Monte Carlo simulations, tornado charts, waterfall charts, football field valuations, comparable company analysis, precedent transactions, three-statement models, model auditing, error detection and fixing, circular reference handling, or any institutional-quality financial model requiring sophisticated formulas, professional formatting, and advanced analytical techniques."
 license: Proprietary
+metadata:
+  author: HH
 ---
 
 # Investment Banking Excel Professional Skill
+
+> _This is an institutional-quality research and investment skill._
 
 ## When to Use This Skill
 - Building DCF, LBO, or M&A models
