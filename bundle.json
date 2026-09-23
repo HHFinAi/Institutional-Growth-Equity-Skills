@@ -1,0 +1,27 @@
+{
+  "skills": {
+    "growth-stock-analysis": "skills/growth-stock-analysis",
+    "competitive-analysis": "skills/competitive-analysis",
+    "earnings-analysis": "skills/earnings-analysis",
+    "thematic-investment-research": "skills/thematic-investment-research",
+    "supply-chain-pass-through": "skills/supply-chain-pass-through",
+    "corporate-network-analysis": "skills/corporate-network-analysis",
+    "investment-report-reader": "skills/investment-report-reader",
+    "dcf-valuation": "skills/dcf-valuation",
+    "semi-dcf-modeler": "skills/semi-dcf-modeler",
+    "financial-analysis": "skills/financial-analysis",
+    "creating-financial-models": "skills/creating-financial-models",
+    "analyzing-financial-statements": "skills/analyzing-financial-statements",
+    "ib-excel-professional": "skills/ib-excel-professional",
+    "ib-report-formatting": "skills/ib-report-formatting",
+    "ib-infographic": "skills/ib-infographic",
+    "complex-logic-visualizer": "skills/complex-logic-visualizer"
+  },
+  "upstream": {
+    "earnings-analysis": {
+      "repository": "HHFinAi/earnings-analysis",
+      "commit": "f6d6b4bf00ff5de25015eca50cf03b7f59d0e5f4",
+      "version": "2.0.0"
+    }
+  }
+}

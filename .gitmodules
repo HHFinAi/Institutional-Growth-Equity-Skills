@@ -1,0 +1,3 @@
+[submodule "earnings-analysis"]
+	path = skills/earnings-analysis
+	url = https://github.com/HHFinAi/earnings-analysis.git
