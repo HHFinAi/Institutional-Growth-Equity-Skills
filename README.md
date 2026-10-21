@@ -1,5 +1,7 @@
 # Institutional Growth Equity Skills
 
+> **Responsible AI:** Analyst-controlled research; verify evidence, disclose AI assistance and protect confidential information. [Policy and project-specific checks](RESPONSIBLE_AI.md).
+
 > _This is an institutional-quality research and investment skill._
 
 A curated bundle of 16 Claude skills for **institutional-quality growth equity research** — covering the full research workflow from thesis construction through valuation modeling to final deliverable production. Built to mirror the methodology used by long-only growth shops (Baillie Gifford, T. Rowe, Capital Group) and bulge-bracket equity research desks.
